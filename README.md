@@ -1,16 +1,13 @@
-## Hi there 👋
+```python
+print(f'Follow {adr1an-debug} on Github')
+```
 
-<!--
-**adr1an-debug/adr1an-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+       OS  :  windows
+   Python  :  python 3.9
+Languages  :  Python, Autohotkey, HTML/CSS, Wordpress Development
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+Knowledge is power.
+```
